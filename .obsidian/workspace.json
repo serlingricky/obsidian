@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing Folder/Phone-test.md",
+                "file": "Master/Phone-test.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing Folder/Phone-test.md",
+                "file": "Master/RRQSHOP Rewards/HANDOFF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phone-test"
+              "title": "HANDOFF"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing Folder/Phone-test.md",
+                "file": "Master/RRQSHOP Rewards/HANDOFF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing Folder/Phone-test.md",
+                "file": "Master/RRQSHOP Rewards/HANDOFF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing Folder/Phone-test.md",
+                "file": "Master/RRQSHOP Rewards/HANDOFF.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,11 +206,12 @@
   },
   "active": "9e8eb29b45a4f50a",
   "lastOpenFiles": [
-    "Testing Folder/RRQSHOP Rewards/HANDOFF.md",
-    "Testing Folder/RRQSHOP Rewards/cashback-design-todo.md",
-    "Testing Folder/RRQSHOP Rewards",
-    "Testing Folder",
-    "Testing Folder/sayo.md",
-    "Testing Folder/Phone-test.md"
+    "Master/RRQSHOP Rewards/cashback-design-todo.md",
+    "Master/Phone-test.md",
+    "Master/Aksela",
+    "Master/RRQSHOP Rewards/HANDOFF.md",
+    "Master/RRQSHOP Rewards",
+    "Master",
+    "Master/sayo.md"
   ]
 }
