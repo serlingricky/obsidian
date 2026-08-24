@@ -1,37 +1,56 @@
 {
   "main": {
-    "id": "f68b33062ec6179c",
+    "id": "72417d643f7110cf",
     "type": "split",
     "children": [
       {
-        "id": "d2e3cc455e48d017",
+        "id": "4501298bb6d076b9",
         "type": "tabs",
         "children": [
           {
-            "id": "7b02a867abde805d",
+            "id": "03baeb8620a54926",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Phone-test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Phone-test"
+            }
+          },
+          {
+            "id": "c57448f620d3c6fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sayo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sayo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9a191f3979132481",
+    "id": "6f02f5a3a4764bea",
     "type": "split",
     "children": [
       {
-        "id": "1a05e8a3fbc818e1",
+        "id": "9d8f8245efa15dcb",
         "type": "tabs",
         "children": [
           {
-            "id": "b54b9234d13f9b19",
+            "id": "9e8eb29b45a4f50a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +65,7 @@
             }
           },
           {
-            "id": "c3c8bcf76e8b7a96",
+            "id": "26421542686923ab",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +82,7 @@
             }
           },
           {
-            "id": "ccc85d71890db5fc",
+            "id": "e705186ccf58f618",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,19 +101,20 @@
     "width": 300
   },
   "right": {
-    "id": "622845208ded0e0d",
+    "id": "97fdb34947cbfefb",
     "type": "split",
     "children": [
       {
-        "id": "103c92c81b7c3a79",
+        "id": "fd6a002689dc477b",
         "type": "tabs",
         "children": [
           {
-            "id": "06d0fa89194eeff5",
+            "id": "c5d843b5870e5763",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sayo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,11 +128,12 @@
             }
           },
           {
-            "id": "f66214035f3c34ee",
+            "id": "cd6c1ecf08888849",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sayo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -121,7 +142,7 @@
             }
           },
           {
-            "id": "9dc065297bbb50f7",
+            "id": "3839320a61dd6a5d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,7 +157,7 @@
             }
           },
           {
-            "id": "03fb5b6fd2381418",
+            "id": "d0a05ac597e9263a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -150,11 +171,12 @@
             }
           },
           {
-            "id": "d825c22544814a6b",
+            "id": "9345c9390e894f65",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "sayo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -178,9 +200,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b02a867abde805d",
-  "lastOpenFiles": []
+  "active": "9e8eb29b45a4f50a",
+  "lastOpenFiles": [
+    "Phone-test.md",
+    "sayo.md"
+  ]
 }
